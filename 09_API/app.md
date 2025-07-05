@@ -8,7 +8,7 @@ This example sends an **AJAX request** to the GitHub API using the classic **XML
 ## ✅ HTML Part
 
 ```html
-<body style="background-color: #212121; color: blue">
+<body style="background-color: #212121; color: skyblue">
   0 UNSENT Client has been created. open() not called yet.<br />
   1 OPENED open() has been called.<br />
   2 HEADERS_RECEIVED send() has been called, and headers and status are available.<br />
